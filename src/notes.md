@@ -73,7 +73,9 @@ VS Code Solidity plugin by Juan Blanco?
 * [Future of Ethereum, Layer 2s, and Arbitrum With Co-Founder Ed Felten](https://www.youtube.com/watch?v=6qBdrtZYBbc)
 
 
+## Links
 
-
+* [Ethereum](https://ethereum.org/)
+* [Etherscan](https://etherscan.io/)
 
 
